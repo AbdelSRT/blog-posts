@@ -1153,7 +1153,7 @@ echo '<br>';
 ```php
 <?php
 
-var_dump($_REQUEST); // bezoek http://localhost/php-basis/09_superglobals.php?name=John&age=32
+var_dump($_REQUEST); // bezoek http://localhost/php-basis/07_superglobals.php?name=John&age=32
 // array(2) { ["name"]=> string(4) "John" ["age"]=> string(2) "32" }
 echo '<br>';
 ```
